@@ -1,4 +1,4 @@
-# SmartStockManaer
+# SmartStockManager
 Python Programming 
 
 ## Smart Stock Manager 
